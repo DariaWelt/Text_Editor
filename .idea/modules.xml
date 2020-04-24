@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Bank account/Problems-Bank_account.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Bank account/Problems-Bank_account.iml" group="Text_Editor/Problems-Bank_account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Bank account/Problems-Bank_account_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Bank account/Problems-Bank_account_main.iml" group="Text_Editor/Problems-Bank_account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Bank account/Problems-Bank_account_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Bank account/Problems-Bank_account_test.iml" group="Text_Editor/Problems-Bank_account" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Employees/Problems-Employees.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Employees/Problems-Employees.iml" group="Text_Editor/Problems-Employees" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Employees/Problems-Employees_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Employees/Problems-Employees_main.iml" group="Text_Editor/Problems-Employees" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Employees/Problems-Employees_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Employees/Problems-Employees_test.iml" group="Text_Editor/Problems-Employees" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Problems-Find_mistake.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Problems-Find_mistake.iml" group="Text_Editor/Problems-Find_mistake" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Problems-Find_mistake_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Problems-Find_mistake_main.iml" group="Text_Editor/Problems-Find_mistake" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Problems-Find_mistake_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Find mistake/Problems-Find_mistake_test.iml" group="Text_Editor/Problems-Find_mistake" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Problems-Publication_and_its_subclasses.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Problems-Publication_and_its_subclasses.iml" group="Text_Editor/Problems-Publication_and_its_subclasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Problems-Publication_and_its_subclasses_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Problems-Publication_and_its_subclasses_main.iml" group="Text_Editor/Problems-Publication_and_its_subclasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Problems-Publication_and_its_subclasses_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Publication and its subclasses/Problems-Publication_and_its_subclasses_test.iml" group="Text_Editor/Problems-Publication_and_its_subclasses" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites.iml" group="Text_Editor/Problems-Users_and_WebSites" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites_main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites_main.iml" group="Text_Editor/Problems-Users_and_WebSites" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites_test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Users and WebSites/Problems-Users_and_WebSites_test.iml" group="Text_Editor/Problems-Users_and_WebSites" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Text_Editor.iml" filepath="$PROJECT_DIR$/.idea/modules/Text_Editor.iml" group="Text_Editor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util.iml" group="Text_Editor/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_main.iml" group="Text_Editor/util" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/util_test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/util_test.iml" group="Text_Editor/util" />
+    </modules>
+  </component>
+</project>

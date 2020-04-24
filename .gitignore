@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Problems/Publication and its subclasses/out/
+/Problems/Publication and its subclasses/out/production/classes/
