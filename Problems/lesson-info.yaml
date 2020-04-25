@@ -4,3 +4,10 @@ content:
 - Find mistake
 - Publication and its subclasses
 - Users and WebSites
+- IntBinaryOperation
+- Shape hierarchy
+- Mutable geometric shapes
+- Account Service
+- Compact strings with AsciiCharSequence
+- Returning values from an anonymous class
+- Iterations

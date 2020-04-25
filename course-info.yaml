@@ -8,5 +8,6 @@ summary: Looks like you like challenges! This project, however, is not too trick
 programming_language: Java
 programming_language_version: 11
 content:
+- Text Editor
 - Problems
 mode: Study
