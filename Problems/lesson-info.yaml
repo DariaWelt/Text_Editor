@@ -11,3 +11,5 @@ content:
 - Compact strings with AsciiCharSequence
 - Returning values from an anonymous class
 - Iterations
+- Pastry packing optimization
+- Converting and multiplying
